@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagarsubedi
-- 👀 I’m interested in Full Stack JS Web Dev, React and Penetration Testing
+- 👀 I’m interested in Full Stack Dev, Mobile App (RN and Flutter) and Penetration Testing
 - 📫 How to reach me? sagarsubedi96@gmail.com
 
 <!---
